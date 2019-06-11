@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>Ödeme - Efsane Paket</title>
+</head>
+<frameset cols="*">
+<frame name="main" src="https://www.shopier.com/567075" scrolling="auto" noresize/>
+<noframes>
+<body>Tarayýcýnýz eski olduðu için siteyi görüntüleyemiyorsunuz.</body>
+</noframes>
+</frameset>
+</html>
